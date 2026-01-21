@@ -4,7 +4,7 @@
   
   **`Desenvolvedor Back-End`**
   
-  Olá! Me chamo Felipe Yoshike, tenho 19 anos e iniciei meus estudos em programação no início de 2025 pela minha paixão por tecnologia. 
+  Olá! Me chamo Felipe Yoshike, tenho 19 anos e iniciei meus estudos em programação no início de 2025 por conta minha paixão por tecnologia. 
 Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC e atualmente estou focado em aprender o essencial para me tornar um desenvolvedor back-end, com ênfase em C# e .NET.
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-4169E1?style=for-the-badge)](https://www.linkedin.com/in/felipeyoshike/)

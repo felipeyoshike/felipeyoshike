@@ -1,71 +1,40 @@
-# 👋 Hi, i'm Felipe Yoshike!</h1>
+<div align="center">
 
-**`Desenvolvedor Back-End`**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=85B6F7&width=325&height=35&lines=Hi%2C+i'm+Felipe+Yoshike!" alt="Typing SVG" /></a>
+  
+  **`Desenvolvedor Back-End`**
+  
+  Olá! Me chamo Felipe Yoshike, tenho 19 anos e iniciei meus estudos em programação no início de 2025 pela minha paixão por tecnologia. 
+Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC e atualmente estou focado em aprender o essencial para me tornar um desenvolvedor back-end, com ênfase em C# e .NET.
 
-Olá! Me chamo Felipe Yoshike, iniciei meus estudos em programação no início de 2025 com o objetivo de ingressar na área de tecnologia.
-Atualmente estou focado em aprender o essencial para me tornar um <strong>desenvolvedor back-end</strong>.
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-4169E1?style=for-the-badge)](https://www.linkedin.com/in/felipeyoshike/)
+  [![E-mail](https://img.shields.io/badge/-Email-4169E1?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kfelipekky@gmail.com)
+  [![Instagram](https://img.shields.io/badge/-Instagram-4169E1?style=for-the-badge&logo=instagram&logoColor=fff6)](https://www.instagram.com/felipekkenji/)
 
-<h2 align="left">🎓 Formação Acadêmica</h2>
+  ---
+  
+  ### 🛠️ Tecnologias & Ferramentas
+  <div>
+    <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+    <img width="12" />
+  </div>
 
-<p align="left">
-• <strong>Análise e Desenvolvimento de Sistemas</strong> (2025 - 2027)
-</p>
+<br>
 
+  ### 📊 Github Stats
+  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felipeyoshike&hide_border=true&show_icons=true&rank_icon=github&theme=github_dark">
+  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeyoshike&layout=compact&hide_border=true&theme=github_dark">
 
-<h2 align="left">📚 O que estou estudando</h2>
-
-<p align="left">
-• <strong>C# e .NET</strong>
-</p>
-
-
-<h2 align="left">🛠️ Tecnologias & Ferramentas</h2>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img width="12" />
 </div>
-
-
-<h2 align="left">🌐 Conecte-se comigo</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/felipeyoshike" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
-  </a>
-  <a href="mailto:kfelipekky@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
-</div>
-
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=felipeyoshike&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-

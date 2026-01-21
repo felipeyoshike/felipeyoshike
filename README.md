@@ -38,3 +38,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC e atualmente es
   <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeyoshike&layout=compact&hide_border=true&theme=github_dark">
 
 </div>
+
+<br>

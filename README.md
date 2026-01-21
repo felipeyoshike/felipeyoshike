@@ -4,8 +4,7 @@
 
 <img src="banner.png" alt="Banner do perfil" width="100%" />
 
-<br>
-<br>
+#
   
   **`Desenvolvedor Back-End`**
   
@@ -16,7 +15,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC e atualmente es
   [![E-mail](https://img.shields.io/badge/-Email-4169E1?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kfelipekky@gmail.com)
   [![Instagram](https://img.shields.io/badge/-Instagram-4169E1?style=for-the-badge&logo=instagram&logoColor=fff6)](https://www.instagram.com/felipekkenji/)
 
-  ---
+ #
   
   ### 🛠️ Tecnologias & Ferramentas
   <div>

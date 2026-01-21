@@ -1,6 +1,11 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=85B6F7&width=325&height=35&lines=Hi%2C+i'm+Felipe+Yoshike!" alt="Typing SVG" /></a>
+
+<img src="banner.png" alt="Banner do perfil" width="100%" />
+
+<br>
+<br>
   
   **`Desenvolvedor Back-End`**
   

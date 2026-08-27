@@ -38,12 +38,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC e atualmente es
     <img width="12" />
   </div>
 
-#
-
-  ### 📊 Github Stats
-  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felipeyoshike&hide_border=true&show_icons=true&rank_icon=github&theme=github_dark">
-  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeyoshike&layout=compact&hide_border=true&theme=github_dark">
-
 </div>
 
 <br>
